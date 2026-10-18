@@ -1,7 +1,7 @@
 # AI Resource Benchmarking
 
 Experimental comparison of lightweight and transformer-based
-approaches for text classification under computational constraints.
+approaches for text classification under computational constraints. Research performed as part of the M1 internship at the Laboratoire d'Informatique de Grenoble (LIG).
 
 ## Research question
 
