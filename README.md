@@ -54,12 +54,13 @@ Tasks:
 
 4. Optimization reduced inference time significantly
    
-| Optimization | Average speedup |
-|---|---:|---:|
-| Batching | 2-3x |
-| Parallelization | 1.5x |
-| Quantization | 3x |
-| GPU acceleration | 4-6x |
+<table>
+   <tr><td>Optimization</td> <td>Average speedup</td></tr>
+<tr> <td>Batching</td><td> 2-3x</td> </tr>
+<tr><td>Parallelization</td> <td>1.5x</td></tr>
+<tr><td> Quantization </td> <td>3x</td></tr>
+<tr><td>GPU acceleration</td> <td>4-6x</td></tr>
+</table>
 
 
 ## Main findings
